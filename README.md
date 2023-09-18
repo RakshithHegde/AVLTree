@@ -68,7 +68,7 @@ There are three ways to display AVL tree
 
 
 
-#skiplist
+# Skiplist
 >As we all know that skip list is a recent data structure that can be used for inserting, searching 
 and deleting key values efficiently in a sorted list. Skiplist is a probabilistic data structure.
 ->We first define the node structure of skiplist. We use an array to store the pointers to point 
